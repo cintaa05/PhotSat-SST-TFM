@@ -1,0 +1,64 @@
+CORENUM    14
+RAD       0
+endlist
+TEL       1
+PHOT    0.0  100.0
+endlist
+SB_SIM   1
+PRA       0
+endlist
+NUMCYCLE    0
+OBSTIME        0.0
+DELTATIME      0.0
+DELTACYCLE     0.0
+OBSFREQ    0
+INTSAMPLES   0
+SLR       0
+endlist
+POP_INPUTKEY 0
+POP_SEED 90000
+POP_ALB    0.1
+POP_FILMINPERA 0
+POP_MINPERA           200.0
+POP_FILMAXPERA 0
+POP_MAXPERA          2000.0
+POP_FILMINAPOA 0
+POP_MINAPOA         34000.0
+POP_FILMAXAPOA 0
+POP_MAXAPOA          2000.0
+POP_FILRADEQ 0
+RAD_REF_RCS             1.0
+RAD_REF_DIST          1000.0
+POP_OR_DEFAULT 1
+ORLIST    0
+endlist
+MAN       0
+COORMAN   0
+MANSTART   0    0/00/00-00:00:0        
+PER_MAN     0.0
+REENTRY   0
+FRAG      0
+NORAD         0
+FRAGDATE   0    0/00/00-00:00:0        
+FRAGMINSIZE              0.0
+FRAGSCALE              0.0
+GRAVMODDEG  0
+GRAVMODORD  0
+AAREA     0
+AE                       0.0
+AMOD      2
+SOLRAD    0
+SE                       0.0
+SPW_SEED     0
+SPW_SEQ   0
+F107TYPE  abs
+F107SIG               0.0
+F107SCALE             0.0
+APTYPE    abs
+APSIG                 0.0
+APSCALE               0.0
+SOLARPE                0.0
+EOP_SEED       0
+EOP_NOISE_MODEL 1
+EOP_PARAM_LIST 0
+endlist
